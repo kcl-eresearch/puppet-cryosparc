@@ -17,5 +17,7 @@ hierarchy:
     paths:
       - "os/%{facts.os.name}.yaml"
       - "os/%{facts.os.family}.yaml"
+  - name: "node"
+    path: "nodes/%{::trusted.certname}.yaml"
   - name: 'common'
     path: 'common.yaml'

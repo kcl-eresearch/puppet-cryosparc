@@ -1,0 +1,12 @@
+---
+hpc_directory: '/scratch/prj/atherton_group_processing'
+hpc_group: 'er_prj_atherton_group_processing'
+hpc_gid:  '830653'
+hpc_user: 'er_slurm_group1739'
+hpc_uid: '816258'
+cs_license: 'be74d646-f985-11ed-99a6-4fbcc0eaa6e0'
+admin_email: 'er-sysadmins-ext@lists.nms.kcl.ac.uk'
+admin_username: 'admin'
+admin_password: 'er_cryosparc1'
+admin_fname: 'er'
+admin_lname: 'admins'
