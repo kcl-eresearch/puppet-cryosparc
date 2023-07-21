@@ -1,1 +1,18 @@
---- {}
+---
+cryosparc::instance:
+  erc-oshyp-atherton-01.er.kcl.ac.uk: {
+    hpc_directory: '/scratch/prj/atherton_group_processing',
+    hpc_group: 'er_prj_atherton_group_processing',
+    hpc_gid:  '830653',
+    hpc_user: 'er_slurm_group1739',
+    hpc_uid: '816258',
+    password: 'cryosparc1',
+  }
+  erc-oshyp-another-01.er.kcl.ac.uk: {
+    hpc_directory: '/scratch/prj/another_group_processing',
+    hpc_group: 'er_prj_another_group_processing',
+    hpc_gid:  '899999',
+    hpc_user: 'er_slurm_group17339',
+    hpc_uid: '899999',
+    password: 'sthgElse',
+  }
